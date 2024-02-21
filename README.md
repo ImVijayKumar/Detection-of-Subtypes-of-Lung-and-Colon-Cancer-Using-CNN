@@ -1,5 +1,5 @@
 # Detection-of-Subtypes-of-Lung-and-Colon-Cancer-Using-CNN
-I. INTRODUCTION
+## INTRODUCTION
 The growth and spread of the body's abnormal cells
 out of control is a characteristic shared by a group of
 illnesses collectively referred to as cancer. The
@@ -32,6 +32,7 @@ treatment can improve the chance of recovery and
 survival, routine screenings and check-ups are
 essential to the prevention and management of
 cancer.
+
 Characterizing histopathological imaging data of
 many cancer kinds, such as skin, breast, lung, colon,
 and colorectal cancer, has garnered significant
@@ -67,7 +68,7 @@ histological pictures of lung tissue that was made
 accessible to the public for the development and
 validation of CAD. To extract features from the
 picture, multiscale processing was applied.
-III. METHODOLOGY
+## METHODOLOGY
 1. Data Collection: This stage involves gathering
 from several sources the pertinent medical pictures
 of the colon and lung. These pictures may be from a
@@ -102,7 +103,7 @@ substantial impact on the model's execution. To
 generate precise and reliable outcomes, it is essential
 to appropriately schedule and execute each stage of
 the method.
-IV. SYSTEM IMPLEMENTATION
+## SYSTEM IMPLEMENTATION
 There are many processes involved in implementing
 a Convolutional Neural Network (CNN) algorithmbased system for the diagnosis of lung and colon
 cancer. This is a high-level summary of the
@@ -141,13 +142,14 @@ track its effectiveness over time to make sure it is
 accurate and dependable in supporting the
 identification and management of colon and lung
 cancer.
-VIII. RESULT
-i. CNN Model Summary:
-![image](https://github.com/imvijaykumar/Detection-of-Subtypes-of-Lung-and-Colon-Cancer-Using-CNN/assets/142383380/1930b7bc-2f99-4bbd-9275-cffc9ac41b05)
-![image](https://github.com/imvijaykumar/Detection-of-Subtypes-of-Lung-and-Colon-Cancer-Using-CNN/assets/142383380/9ddc00ff-b4d9-449b-a8e3-60b8f0b70f3f)
-![image](https://github.com/imvijaykumar/Detection-of-Subtypes-of-Lung-and-Colon-Cancer-Using-CNN/assets/142383380/d4904f25-5096-4e23-9aea-276c9132acb6)
-![image](https://github.com/imvijaykumar/Detection-of-Subtypes-of-Lung-and-Colon-Cancer-Using-CNN/assets/142383380/eb8d9b22-273d-4741-a53d-3124936d385b)
-CONCLUSION
+## RESULTS
+![image](https://github.com/imvijaykumar/Detection-of-Subtypes-of-Lung-and-Colon-Cancer-Using-CNN/assets/142383380/9a3c4fff-e5f2-425b-b014-1aae2ac4a1b4)
+![image](https://github.com/imvijaykumar/Detection-of-Subtypes-of-Lung-and-Colon-Cancer-Using-CNN/assets/142383380/1f7742ba-230f-4345-b56a-8097cfba1527)
+![image](https://github.com/imvijaykumar/Detection-of-Subtypes-of-Lung-and-Colon-Cancer-Using-CNN/assets/142383380/93f253f0-d731-4f1d-8f14-7ed1dc917a3f)
+![image](https://github.com/imvijaykumar/Detection-of-Subtypes-of-Lung-and-Colon-Cancer-Using-CNN/assets/142383380/3fb12cce-6e27-4e86-986f-e6ea9ecb76f1)
+![image](https://github.com/imvijaykumar/Detection-of-Subtypes-of-Lung-and-Colon-Cancer-Using-CNN/assets/142383380/744eb715-97b0-435f-9ff4-fbdad2823653)
+![image](https://github.com/imvijaykumar/Detection-of-Subtypes-of-Lung-and-Colon-Cancer-Using-CNN/assets/142383380/4a518200-20f4-4135-a08b-cbae5fc842d5)
+## CONCLUSION
 To sum up, CNN-based algorithms for the
 identification of lung and colon cancer have shown
 promising results in accurately identifying cancerous
